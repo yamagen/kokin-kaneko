@@ -49,7 +49,7 @@ Tag sets are shown as the following:
 
 Kaneko.txt is a contemporary translation of the Kokinshu by Motoomi Kaneko.
 
-```txt
+```plaintext
 $A|000001
 $B|年内に思ひがけず春は来たことであるわ、さてはこの同じ一年の内の昨日までを、去年といはうか、それとも今年といはうか。
 $D|年内に思い掛けず春は来たことであるわ、さてはこの同じ一年の内の昨日までを、去年と言おうか、それとも今年と言おうか。
@@ -63,7 +63,7 @@ $Z|2003/09/25
 
 Kokin-kaneko.db is a word data of the contemporary translation of the Kokinshu by Motoomi Kaneko, tagged.
 
-```txt
+```plaintext
 kaneko 0001 1 02 00 00 BG-01-1631-01-280-A 年内 ねんない 年内
 kaneko 0001 3 02 00 00 BG-01-1630-01-010-A -- とし 年
 kaneko 0001 3 02 00 00 BG-08-0071-01-010-A -- の の
