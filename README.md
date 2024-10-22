@@ -1,16 +1,14 @@
-# ** README **
-
-## **Kokin-Kaneko**
+# **Kokin-Kaneko**
 
 [![DOI](https://zenodo.org/badge/868652787.svg)](https://zenodo.org/badge/latestdoi/868652787)
 
-### Title: Kokinwakashu Hyoshaku dataset
+## Title: Kokinwakashu Hyoshaku dataset
 
 "Kokinwakashu Hyoshaku" was an annotation book of "Kokinwakashu" published in 1927 by Motoomi Kaneko.
 This dataset is contemporary translation sentences of the "Kokinwakashu" poems in the "Kokinwakashu Hyoshaku" book.
 The dataset contains the following information for each poem:
 
-## **Introduction**
+### **Introduction**
 
 金子元臣著『古今和歌集評釈』のうち、大意を記録したデータベース。ただし、形態素解析で処理しやすいように、現代仮名表記に改めた。著者没後50年を経過しているので、著作権上の取り扱いには問題が発生しない。
 
@@ -18,7 +16,7 @@ A dataset that records the general meaning of Kaneko Motoomi's Kokin Wakashū Hy
 The text has been revised to modern kana notation to facilitate morphological analysis.
 As more than 50 years have passed since the author's death, there are no copyright issues with its use.
 
-## **Data format**
+### **Data format**
 
 Tag sets are shown as the following:
 
@@ -41,9 +39,9 @@ Tag sets are shown as the following:
 - $Z|日付
 - $Z|date of edited of the data
 
-## **Example**
+### **Example**
 
-### kaneko.txt
+#### kaneko.txt
 
 <!-- kaneko.txt: 金子元臣による古今集の現代語訳 -->
 
@@ -57,7 +55,7 @@ $I|ねんないにおもいがけずはるはきたことであるわ、さて�
 $Z|2003/09/25
 ```
 
-### kokin-kaneko.db
+#### kokin-kaneko.db
 
 <!-- kokin-kaneko.db: 金子元臣による古今集の現代語訳を単語データに分割し、タグ付けを施したもの。 -->
 
@@ -84,16 +82,16 @@ kaneko 0001 0 69 00 00 BG-08-0069-32-010-A わ わ わ
 ```
 
 <!--
-## **Contributing**
+### **Contributing**
 
 If you'd like to contribute to Project Title, here are some guidelines:
 -->
 
-## **License**
+### **License**
 
 Project Title is released under the Apache 2.0 License.
 
-## **Authors and Acknowledgment**
+### **Authors and Acknowledgment**
 
 Project Title was created by **[Hilofumi Yamamoto](https://github.com/yamagen)**.
 
@@ -105,11 +103,11 @@ Additional contributors include:
 Thank you to all the contributors for their hard work and dedication to the project.
 
 <!--
-## **Code of Conduct**
+### **Code of Conduct**
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information.
 
-## **FAQ**
+### **FAQ**
 
 **Q:** What is Project Title?
 
@@ -131,18 +129,18 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 **A:** Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
 
-## **Changelog**
+### **Changelog**
 
 - **0.1.0:** Initial release
 - **0.1.1:** Fixed a bug in the build process
 - **0.2.0:** Added a new feature
 - **0.2.1:** Fixed a bug in the new feature
 
-## **Contact**
+### **Contact**
 
 If you have any questions or comments about Project Title, please contact **[Your Name](you@example.com)**.
 
-## **Conclusion**
+### **Conclusion**
 
 That's it! This is a basic template for a proper README file for a general project. You can customize it to fit your needs, but make sure to include all the necessary information. A good README file can help users understand and use your project, and it can also help attract contributors.
 
