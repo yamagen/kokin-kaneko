@@ -49,13 +49,13 @@ Tag sets are shown as the following:
 
 Kaneko.txt is a contemporary translation of the Kokinshu by Motoomi Kaneko.
 
-'''txt
+```txt
 $A|000001
 $B|年内に思ひがけず春は来たことであるわ、さてはこの同じ一年の内の昨日までを、去年といはうか、それとも今年といはうか。
 $D|年内に思い掛けず春は来たことであるわ、さてはこの同じ一年の内の昨日までを、去年と言おうか、それとも今年と言おうか。
 $I|ねんないにおもいがけずはるはきたことであるわ、さてはこのおなじいちねんのうちのきのうまでを、きょねんといおうか、それともことしといおうか。
 $Z|2003/09/25
-'''
+```
 
 ### kokin-kaneko.db
 
@@ -63,7 +63,7 @@ $Z|2003/09/25
 
 Kokin-kaneko.db is a word data of the contemporary translation of the Kokinshu by Motoomi Kaneko, tagged.
 
-'''txt
+```txt
 kaneko 0001 1 02 00 00 BG-01-1631-01-280-A 年内 ねんない 年内
 kaneko 0001 3 02 00 00 BG-01-1630-01-010-A -- とし 年
 kaneko 0001 3 02 00 00 BG-08-0071-01-010-A -- の の
@@ -81,7 +81,6 @@ kaneko 0001 0 21 00 00 BG-01-1010-01-020-A こと こと こと
 kaneko 0001 0 61 00 00 BG-08-0061-03-010-A で で で
 kaneko 0001 0 47 17 01 BG-02-1200-01-010-A ある ある ある
 kaneko 0001 0 69 00 00 BG-08-0069-32-010-A わ わ わ
-
 ```
 
 ## **Contributing**
@@ -143,4 +142,7 @@ If you have any questions or comments about Project Title, please contact **[You
 ## **Conclusion**
 
 That's it! This is a basic template for a proper README file for a general project. You can customize it to fit your needs, but make sure to include all the necessary information. A good README file can help users understand and use your project, and it can also help attract contributors.
+
+```
+
 ```
