@@ -83,25 +83,28 @@ kaneko 0001 0 47 17 01 BG-02-1200-01-010-A ある ある ある
 kaneko 0001 0 69 00 00 BG-08-0069-32-010-A わ わ わ
 ```
 
+<!--
 ## **Contributing**
 
 If you'd like to contribute to Project Title, here are some guidelines:
+-->
 
 ## **License**
 
-Project Title is released under the Apache 2.0 License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
+Project Title is released under the Apache 2.0 License.
 
 ## **Authors and Acknowledgment**
 
-Project Title was created by **[Your Name](https://github.com/username)**.
+Project Title was created by **[Hilofumi Yamamoto](https://github.com/yamagen)**.
 
 Additional contributors include:
 
-- **[Contributor Name](https://github.com/contributor-name)**
-- **[Another Contributor](https://github.com/another-contributor)**
+- **[Bor Hodošček](https://github.com/borh)**
+- **[Xudong Chen](https://github.com/idiig)**
 
 Thank you to all the contributors for their hard work and dedication to the project.
 
+<!--
 ## **Code of Conduct**
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information.
@@ -143,6 +146,4 @@ If you have any questions or comments about Project Title, please contact **[You
 
 That's it! This is a basic template for a proper README file for a general project. You can customize it to fit your needs, but make sure to include all the necessary information. A good README file can help users understand and use your project, and it can also help attract contributors.
 
-```
-
-```
+-->
