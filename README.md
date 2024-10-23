@@ -10,11 +10,11 @@ The dataset contains the following information for each poem:
 
 ### **Introduction**
 
-金子元臣著『古今和歌集評釈』のうち、大意を記録したデータベース。ただし、形態素解析で処理しやすいように、現代仮名表記に改めた。著者没後50年を経過しているので、著作権上の取り扱いには問題が発生しない。
+金子元臣著『古今和歌集評釈』のうち、大意を記録したデータベース。ただし、形態素解析で処理しやすいように、現代仮名表記に改めた。著者没後70年を経過しているので、著作権上の取り扱いには問題が発生しない。
 
 A dataset that records the general meaning of Kaneko Motoomi's Kokin Wakashū Hyōshaku.
 The text has been revised to modern kana notation to facilitate morphological analysis.
-As more than 50 years have passed since the author's death, there are no copyright issues with its use.
+As more than 70 years have passed since the author's death, there are no copyright issues with its use.
 
 ### **Data format**
 
