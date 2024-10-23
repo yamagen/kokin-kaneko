@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/868652787.svg)](https://zenodo.org/badge/latestdoi/868652787)
 
-## Title: Kokinwakashu Hyoshaku dataset
+## Kokinwakashu Hyoshaku dataset
 
 "Kokinwakashu Hyoshaku" was an annotation book of "Kokinwakashu" published in 1927 by Motoomi Kaneko.
 This dataset is contemporary translation sentences of the "Kokinwakashu" poems in the "Kokinwakashu Hyoshaku" book.
