@@ -131,6 +131,34 @@ Additional contributors include:
 
 Thank you to all the contributors for their hard work and dedication to the project.
 
+### **References**
+
+```bibtex
+@book{kaneko27a,
+  author = {金子 元臣},
+  yomi = {Kaneko, Motoomi},
+  title = {古今和歌集評釈（昭和新版）},
+  publisher = {明治書院},
+  year = {1927},
+  address = {東京},
+  OPTannote = { p.1 一 意釈は、歌の意をそこねたり、調をあやまつたりすることを恐れて、
+               鏡花水月の訳法に従ひ、きわめて小心に、一字一語の出入をもゆるがせ にせぬことを期した。 },
+}
+
+@book{kaneko27ae,
+  author = {Kaneko, Motoomi},
+  title = {{{\it Kokinwakash\={u}\/}} Hy\={o}shaku: Sh\={o}wa shimban (An
+           annotated {{\it Kokinwakash\={u}\/}}: the new {S}h\={o}wa edition)},
+  publisher = {Meijishoin},
+  year = {1927},
+  address = {Tokyo},
+  OPTannote = {hendriks checked},
+  OPTannote = { p.1 Ishaku ha, uta no i wo sokoneta ri, ch\={o} wo ayamatsuta ri suru koto wo osorete,
+                k\={o}kasuigetsu no yakuh\={o} ni shitagai, kiwamete sh\={o}shin ni, ichiji ichigo no shuttai wo
+                moyurugase ni senu koto wo kitashita; In English: p.1 In the interpretive translation, out of fear of distorting the meaning of the poem or altering its rhythm, I adhered to the translation method of 'mirror flower, water moon,' taking extreme care to ensure that not a single word or character was carelessly altered. },
+}
+```
+
 <!--
 ### **Code of Conduct**
 
