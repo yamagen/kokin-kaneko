@@ -16,7 +16,13 @@ A dataset that records the general meaning of Kaneko Motoomi's Kokin Wakashū Hy
 The text has been revised to modern kana notation to facilitate morphological analysis.
 As more than 70 years have passed since the author's death, there are no copyright issues with its use.
 
-### **Data format**
+### kokin-kaneko.db
+
+<!-- kaneko.txt: 金子元臣による古今集の現代語訳 -->
+
+Kaneko.txt is a contemporary translation of the Kokinshu by Motoomi Kaneko.
+
+#### **Data format**
 
 Tag sets are shown as the following:
 
@@ -39,13 +45,7 @@ Tag sets are shown as the following:
 - $Z|日付
 - $Z|date of edited of the data
 
-### **Example**
-
-#### kaneko.txt
-
-<!-- kaneko.txt: 金子元臣による古今集の現代語訳 -->
-
-Kaneko.txt is a contemporary translation of the Kokinshu by Motoomi Kaneko.
+#### **Example**
 
 ```plaintext
 $A|000001
@@ -55,11 +55,40 @@ $I|ねんないにおもいがけずはるはきたことであるわ、さて�
 $Z|2003/09/25
 ```
 
-#### kokin-kaneko.db
+#### kaneko.txt
 
 <!-- kokin-kaneko.db: 金子元臣による古今集の現代語訳を単語データに分割し、タグ付けを施したもの。 -->
 
 Kokin-kaneko.db is a word data of the contemporary translation of the Kokinshu by Motoomi Kaneko, tagged.
+
+#### **Data format**
+
+```plaintext
+1      2    3 4  5  6  7                   8    9        10
+kaneko 0001 1 02 00 00 BG-01-1631-01-280-A 年内 ねんない 年内
+kaneko 0001 3 02 00 00 BG-01-1630-01-010-A -- とし 年
+kaneko 0001 3 02 00 00 BG-08-0071-01-010-A -- の の
+kaneko 0001 3 02 00 00 BG-01-1770-01-030-A -- うち 内
+
+kaneko 0100 1 56 00 00 BG-04-3110-01-010-A 必ず かならず 必ず
+kaneko 0100 2 56 00 00 BG-03-1210-03-040-A -- かならず 必ず
+```
+
+- 1: Translator
+- 2: Poem number
+- 3: Token category
+  - 1 Originally translated word
+  - 2 Alternative wlsp code
+  - 3 Decomposed elements
+- 4: POS
+- 5: SubPOS
+- 6: Inflection
+- 7: Word ID (wlsp code: old version)
+- 8: Word (surface form)
+- 9: Reading
+- 10: Lemma
+
+#### **Example**
 
 ```plaintext
 kaneko 0001 1 02 00 00 BG-01-1631-01-280-A 年内 ねんない 年内
