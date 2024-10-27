@@ -18,9 +18,13 @@ As more than 70 years have passed since the author's death, there are no copyrig
 
 ### kokin-kaneko.db
 
-<!-- kaneko.txt: 金子元臣による古今集の現代語訳 -->
+<!--
+kokin-kaneko.db: 金子元臣による古今集の現代語訳を単語データに分割し、タグ付けを施したもの。
+和歌と金子による現代語訳を確かめるには、このデータセットを利用するほうが便利である。
+-->
 
-Kaneko.txt is a contemporary translation of the Kokinshu by Motoomi Kaneko.
+Kokin-kaneko.db is a word data of the contemporary translation of the Kokinshu by Motoomi Kaneko, tagged.
+It is more convenient to use this dataset to verify the poem and the contemporary translation by Kaneko.
 
 #### **Data format**
 
@@ -57,9 +61,13 @@ $Z|2003/09/25
 
 #### kaneko.txt
 
-<!-- kokin-kaneko.db: 金子元臣による古今集の現代語訳を単語データに分割し、タグ付けを施したもの。 -->
+<!--
+kaneko.txt: 金子元臣による古今集の現代語訳の単語データセット
+kaneko.txtは金子元臣による古今集の現代語訳を単語データに分割し、意味分類コード、品詞番号、などのタグ付けを施したものである。
+-->
 
-Kokin-kaneko.db is a word data of the contemporary translation of the Kokinshu by Motoomi Kaneko, tagged.
+Kaneko.txt is a contemporary translation of the Kokinshu by Motoomi Kaneko.
+The translation sentences are divided into word data, and tagged with meaning classification codes, part-of-speech numbers, etc.
 
 #### **Data format**
 
