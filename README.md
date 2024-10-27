@@ -153,9 +153,7 @@ Thank you to all the contributors for their hard work and dedication to the proj
   year = {1927},
   address = {Tokyo},
   OPTannote = {hendriks checked},
-  OPTannote = { p.1 Ishaku ha, uta no i wo sokoneta ri, ch\={o} wo ayamatsuta ri suru koto wo osorete,
-                k\={o}kasuigetsu no yakuh\={o} ni shitagai, kiwamete sh\={o}shin ni, ichiji ichigo no shuttai wo
-                moyurugase ni senu koto wo kitashita; In English: p.1 In the interpretive translation, out of fear of distorting the meaning of the poem or altering its rhythm, I adhered to the translation method of 'mirror flower, water moon,' taking extreme care to ensure that not a single word or character was carelessly altered. },
+  OPTannote = { p.1 Ishaku ha, uta no i wo sokoneta ri, cho wo ayamatsuta ri suru koto wo osorete, kokasuigetsu no yakuho ni shitagai, kiwamete shoshin ni, ichiji ichigo no shuttai wo moyurugase ni senu koto wo kitashita; In English: p.1 In the interpretive translation, out of fear of distorting the meaning of the poem or altering its rhythm, I adhered to the translation method of 'mirror flower, water moon,' taking extreme care to ensure that not a single word or character was carelessly altered. },
 }
 ```
 
